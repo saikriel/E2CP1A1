@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+}
+nav {
+    position: fixed;
+    top: 0;
+    background-color: aqua;
+    width: 100%;
+    box-sizing: border-box;
+    height: 50px;
+
+}
+nav li {
+    display: inline; 
+    list-style-type: none;
+    
+}
+nav ul {
+    position: absolute;
+    height: 25%;
+    width: 25%;
+    display: block;
+}
+
+.box{
+    height: auto;
+    padding: 5px;
+    margin: 5px;
+    width: calc(25% - 10px);
+    float: left;
+    box-sizing: border-box;
+    display: block;
+}
+.intro {
+    margin-top: 50px;
+}

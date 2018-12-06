@@ -1,0 +1,11 @@
+.lente {
+    background-image: url(images/oferta_lente.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 300px;
+}
+.ribbon {
+    height: 150px;
+    margin-top: 35px;
+    margin-left: 22px;
+}
